@@ -1,0 +1,6 @@
+if SHIELD_65P
+
+config ZMK_KEYBOARD_NAME
+    default "65P"
+
+endif
